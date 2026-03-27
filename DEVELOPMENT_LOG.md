@@ -33,9 +33,8 @@ Document your development process as you work on the assignment. Add entries sho
 ## Your Development Log:
 
 ### Entry 1 - [mar 27, 2026, 1:31 pm]
-**What I did**: 
-
-**Details**: add feature
+**What I did**: add feature
+**Details**: adding and see the output
 
 **Challenges**: the time was ruunnn
 
@@ -45,7 +44,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 2 - [Date and Time]
+### Entry 2 - [mar 27, 2026, 1:31 pm
 **What I did**: 
 
 **Details**: 

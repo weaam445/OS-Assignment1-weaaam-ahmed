@@ -32,16 +32,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
+### Entry 1 - [mar 27, 2026, 1:31 pm]
 **What I did**: 
 
-**Details**: 
+**Details**: add feature
 
-**Challenges**: 
+**Challenges**: the time was ruunnn
 
-**Solution**: 
+**Solution**: thin;ing good
 
-**Time spent**: 
+**Time spent**: 3
 
 ---
 

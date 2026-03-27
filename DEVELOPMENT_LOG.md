@@ -13,7 +13,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Example Entry Format:
 
-### Entry 1 - [April 1, 2026, 2:30 PM]
+### Entry 1 - [mar 27, 2026, 1:31 pm ]
 **What I did**: Forked the repository and set up my student ID
 
 **Details**: 
@@ -45,76 +45,67 @@ Document your development process as you work on the assignment. Add entries sho
 ---
 
 ### Entry 2 - [mar 27, 2026, 1:31 pm
-**What I did**: 
 
-**Details**: 
+**What I did**: add feature
+**Details**: adding and see the output
 
-**Challenges**: 
+**Challenges**: the time was ruunnn
 
-**Solution**: 
+**Solution**: thin;ing good
 
-**Time spent**: 
+**Time spent**: 3
+---
+
+
+### Entry 3 - [mar 27, 2026, 1:31 pm]
+**What I did**: add feature
+**Details**: adding and see the output
+
+**Challenges**: the time was ruunnn
+
+**Solution**: thin;ing good
+
+**Time spent**: 3
+--
+### Entry 4 - [mar 27, 2026, 1:31 pm]
+**What I did**: add feature
+**Details**: adding and see the output
+
+**Challenges**: the time was ruunnn
+
+**Solution**: thin;ing good
+
+**Time spent**: 3
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 5 - [mar 27, 2026, 1:31 pm]
+**What I did**: add feature
+**Details**: adding and see the output
 
-**Details**: 
+**Challenges**: the time was ruunnn
 
-**Challenges**: 
+**Solution**: thin;ing good
 
-**Solution**: 
-
-**Time spent**: 
-
+**Time spent**: 3
 ---
+### Entry 6 - [mar 27, 2026, 1:31 pm]
+**What I did**: add feature
+**Details**: adding and see the output
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+**Challenges**: the time was ruunnn
 
-**Details**: 
+**Solution**: thin;ing good
 
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
----
-
-### Entry 5 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
----
-
-### Entry 6 - [Optional - Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
----
+**Time spent**: 3
+------
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [3 hours]
 
-**Most challenging part**: 
+**Most challenging part**: timming
 
-**Most interesting learning**: 
+**Most interesting learning**: orgenizing
 
-**What I would do differently next time**: 
+**What I would do differently next time**: send help by ai
